@@ -28,7 +28,7 @@ import (
 	"crypto/x509"
 
 	"golang.org/x/crypto/ssh"
-	"github.com/pkg/sftp"
+	"github.com/Beeketing/sftp"
 )
 
 type SftpFsContext struct {
