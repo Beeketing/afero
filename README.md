@@ -54,7 +54,7 @@ First use go get to install the latest version of the library.
 
 Next include Afero in your application.
 ```go
-import "github.com/spf13/afero"
+import "github.com/Beeketing/afero"
 ```
 
 ## Step 2: Declare a backend

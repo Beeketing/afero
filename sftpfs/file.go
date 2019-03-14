@@ -14,7 +14,7 @@
 package sftpfs
 
 import (
-	"github.com/pkg/sftp"
+	"github.com/Beeketing/sftp"
 	"os"
 )
 
